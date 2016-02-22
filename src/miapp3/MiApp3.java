@@ -6,6 +6,7 @@ public class MiApp3 {
         //Primer commit dentro de la master
         //Cambio en la master antes del bug
         //Cambio en la master durante el bug
+        //Cambio dentro de la rama bug
     }
     
 }
